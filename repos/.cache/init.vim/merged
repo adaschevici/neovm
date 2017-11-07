@@ -1,0 +1,2 @@
+100
+['Shougo/dein.vim', 'Shougo/deoplete.nvim', 'Shougo/neosnippet-snippets', 'Shougo/neosnippet.vim', 'airblade/vim-gitgutter', 'chrisbra/csv.vim', 'derekwyatt/vim-scala', 'elixir-lang/vim-elixir', 'fatih/vim-go', 'jimenezrick/vimerl', 'kien/ctrlp.vim', 'maksimr/vim-jsbeautify', 'mhinz/vim-signify', 'mxw/vim-jsx.git', 'nvie/vim-flake8', 'pangloss/vim-javascript', 'rust-lang/rust.vim', 'scrooloose/nerdtree', 'scrooloose/syntastic', 'tpope/vim-fugitive', 'tshirtman/vim-cython', 'vim-airline/vim-airline', 'vim-airline/vim-airline-themes']
